@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: amitkrxyz.github.io
+Token: 44bcf6873a634d4e62fff521c6682e3e6a32bb8712d7781ddeae529b286c470e
