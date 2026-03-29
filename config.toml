@@ -1,0 +1,31 @@
+username = "amitkrxyz"
+url = "https://amitkr.xyz"
+source = "https://github.com/amitkrxyz/amitkrxyz.github.io"
+ascii_art = """
+ █████╗ ███╗   ███╗██╗████████╗██╗  ██╗██████╗ ██╗  ██╗██╗   ██╗███████╗
+██╔══██╗████╗ ████║██║╚══██╔══╝██║ ██╔╝██╔══██╗╚██╗██╔╝╚██╗ ██╔╝╚══███╔╝
+███████║██╔████╔██║██║   ██║   █████╔╝ ██████╔╝ ╚███╔╝  ╚████╔╝   ███╔╝ 
+██╔══██║██║╚██╔╝██║██║   ██║   ██╔═██╗ ██╔══██╗ ██╔██╗   ╚██╔╝   ███╔╝  
+██║  ██║██║ ╚═╝ ██║██║   ██║   ██║  ██╗██║  ██║██╔╝ ██╗   ██║   ███████╗
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝"""
+
+about = """
+Hi what's up my name's amit!
+Connect with my social or use this site to easily find my content.
+"""
+
+[[links]]
+name = "Github"
+url = "https://github.com/amitkrxyz"
+
+[[links]]
+name = "Linkedin"
+url = "https://linkedin.com/amitkrxyz"
+
+[[links]]
+name = "Twitter"
+url = "https://x.com/amitkrxyz"
+
+[[links]]
+name = "Website"
+url = "https://amitkr.xyz"
